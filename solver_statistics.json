@@ -1,0 +1,25 @@
+{
+  "gurobi_version": [
+    12,
+    0,
+    3
+  ],
+  "time_limit_seconds": 3600,
+  "runtime_seconds": 3600.002018928528,
+  "status": 9,
+  "best_breaks": 36,
+  "lower_bound": 2.0,
+  "gap": 0.9444444444444444,
+  "nodes": 1041276.0,
+  "baseline_breaks": 48,
+  "binary_variables": 1152,
+  "constraints": 1400,
+  "independent_validation": {
+    "strict_city_rule": true,
+    "matches_preserved": true,
+    "once_per_matchday": true,
+    "no_three_consecutive": true,
+    "four_home_four_away": true,
+    "break_count_matches_solver": true
+  }
+}

@@ -1,0 +1,145 @@
+match_id,matchday,home_club,away_club
+3,1,Borussia Dortmund,Villarreal
+6,1,Real Madrid,Inter
+14,1,PSV Eindhoven,Shakhtar Donetsk
+21,1,Arsenal,Lille
+45,1,Stuttgart,Atletico de Madrid
+54,1,Sporting CP,LASK
+65,1,Fenerbahce,Liverpool
+69,1,Leipzig,Manchester City
+72,1,Viking,Sabah
+77,1,Feyenoord,Porto
+81,1,Slovan Bratislava,Real Betis
+99,1,Napoli,Club Brugge
+107,1,Lens,Bodo/Glimt
+111,1,AEK Athens,Roma
+121,1,Manchester United,Bayern Munchen
+133,1,Barcelona,Como
+139,1,Paris Saint-Germain,Galatasaray
+141,1,Slavia Praha,Aston Villa
+15,2,Como,Leipzig
+16,2,Bayern Munchen,Bodo/Glimt
+23,2,Inter,Club Brugge
+24,2,Galatasaray,Barcelona
+30,2,Roma,Real Madrid
+32,2,Shakhtar Donetsk,AEK Athens
+53,2,Real Betis,Feyenoord
+75,2,Arsenal,Borussia Dortmund
+84,2,Atletico de Madrid,Viking
+95,2,Aston Villa,Paris Saint-Germain
+104,2,LASK,Fenerbahce
+114,2,Porto,Slavia Praha
+115,2,Lille,Slovan Bratislava
+119,2,Sabah,Napoli
+137,2,Liverpool,Lens
+138,2,Manchester City,Sporting CP
+140,2,PSV Eindhoven,Stuttgart
+143,2,Villarreal,Manchester United
+1,3,AEK Athens,LASK
+2,3,Club Brugge,Aston Villa
+9,3,Liverpool,Atletico de Madrid
+11,3,Sporting CP,Galatasaray
+12,3,Napoli,Arsenal
+20,3,Sabah,Slavia Praha
+26,3,Viking,Bayern Munchen
+28,3,Feyenoord,Como
+33,3,Bodo/Glimt,Borussia Dortmund
+35,3,Real Betis,Porto
+43,3,Paris Saint-Germain,Barcelona
+62,3,Manchester United,Roma
+80,3,Real Madrid,PSV Eindhoven
+108,3,Stuttgart,Lille
+118,3,Fenerbahce,Villarreal
+122,3,Leipzig,Shakhtar Donetsk
+123,3,Lens,Manchester City
+144,3,Slovan Bratislava,Inter
+5,4,Lille,Real Betis
+7,4,Barcelona,Feyenoord
+18,4,Slavia Praha,Lens
+25,4,Leipzig,PSV Eindhoven
+34,4,Manchester City,Paris Saint-Germain
+46,4,Como,Manchester United
+48,4,Aston Villa,Viking
+56,4,Galatasaray,Stuttgart
+57,4,Atletico de Madrid,Bayern Munchen
+61,4,LASK,Slovan Bratislava
+67,4,Porto,Napoli
+87,4,Shakhtar Donetsk,Fenerbahce
+92,4,Villarreal,Sabah
+94,4,Roma,Sporting CP
+102,4,Arsenal,Real Madrid
+113,4,Inter,Liverpool
+130,4,Borussia Dortmund,AEK Athens
+131,4,Club Brugge,Bodo/Glimt
+4,5,Porto,Manchester City
+19,5,Lens,Sporting CP
+37,5,Fenerbahce,Slavia Praha
+38,5,Sabah,Borussia Dortmund
+41,5,Liverpool,Villarreal
+50,5,Bayern Munchen,Arsenal
+58,5,Barcelona,Aston Villa
+59,5,Feyenoord,Inter
+60,5,Bodo/Glimt,Lille
+89,5,Paris Saint-Germain,Roma
+93,5,AEK Athens,Galatasaray
+98,5,Manchester United,Leipzig
+100,5,Real Betis,Como
+101,5,Slovan Bratislava,Shakhtar Donetsk
+106,5,PSV Eindhoven,Atletico de Madrid
+116,5,Real Madrid,LASK
+117,5,Stuttgart,Club Brugge
+142,5,Napoli,Viking
+22,6,Atletico de Madrid,Manchester United
+31,6,Aston Villa,Fenerbahce
+39,6,Roma,Slovan Bratislava
+42,6,Manchester City,AEK Athens
+44,6,Napoli,Bodo/Glimt
+66,6,Borussia Dortmund,Real Betis
+79,6,Leipzig,Lens
+83,6,Slavia Praha,Villarreal
+85,6,Club Brugge,Liverpool
+86,6,Inter,Stuttgart
+88,6,Lille,Bayern Munchen
+110,6,Galatasaray,Feyenoord
+120,6,Como,Paris Saint-Germain
+125,6,Sporting CP,Barcelona
+126,6,Viking,PSV Eindhoven
+127,6,Arsenal,Sabah
+134,6,Shakhtar Donetsk,Real Madrid
+136,6,LASK,Porto
+8,7,Stuttgart,Viking
+10,7,Paris Saint-Germain,Slovan Bratislava
+17,7,Manchester United,Sabah
+27,7,Villarreal,Napoli
+55,7,Shakhtar Donetsk,Sporting CP
+64,7,AEK Athens,Real Madrid
+68,7,PSV Eindhoven,Club Brugge
+70,7,Lens,Como
+73,7,Bodo/Glimt,LASK
+74,7,Galatasaray,Aston Villa
+96,7,Barcelona,Manchester City
+97,7,Bayern Munchen,Slavia Praha
+103,7,Borussia Dortmund,Inter
+105,7,Liverpool,Porto
+124,7,Real Betis,Arsenal
+128,7,Roma,Lille
+129,7,Atletico de Madrid,Fenerbahce
+135,7,Feyenoord,Leipzig
+13,8,Fenerbahce,Roma
+29,8,LASK,Liverpool
+36,8,Slovan Bratislava,Stuttgart
+40,8,Porto,PSV Eindhoven
+47,8,Lille,Galatasaray
+49,8,Club Brugge,Lens
+51,8,Inter,Shakhtar Donetsk
+52,8,Real Madrid,Leipzig
+63,8,Villarreal,Paris Saint-Germain
+71,8,Slavia Praha,Arsenal
+76,8,Como,AEK Athens
+78,8,Manchester City,Napoli
+82,8,Sabah,Barcelona
+90,8,Sporting CP,Manchester United
+91,8,Viking,Feyenoord
+109,8,Bodo/Glimt,Atletico de Madrid
+112,8,Aston Villa,Borussia Dortmund
+132,8,Bayern Munchen,Real Betis
